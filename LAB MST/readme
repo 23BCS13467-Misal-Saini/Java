@@ -1,0 +1,104 @@
+# Java Projects: Average Calculator & Student List
+
+This repository contains two simple Java projects designed to strengthen understanding of core programming concepts such as classes, objects, collections, and basic I/O operations.
+
+---
+
+## 📘 Project 1: Average Calculator
+
+### 🧩 Description
+The **Average Calculator** program allows users to input multiple numbers and calculates their average.  
+It demonstrates:
+- Input handling (via Scanner)
+- Loops and conditionals
+- Basic arithmetic operations
+- Exception handling (optional)
+
+### ⚙️ Features
+- Accepts dynamic number of inputs  
+- Calculates and displays the average  
+- Handles invalid (non-numeric) input gracefully  
+
+### ▶️ Example Run
+Enter the number of elements: 5
+Enter 5 numbers: 10 20 30 40 50
+Average = 30.0
+
+yaml
+Copy code
+
+---
+
+## 📘 Project 2: Student List
+
+### 🧩 Description
+The **Student List** program manages a list of students and their details such as name, ID, and marks.  
+It demonstrates:
+- Class and object creation  
+- ArrayList and collection usage  
+- Encapsulation and object manipulation  
+
+### ⚙️ Features
+- Add new students  
+- Display all students  
+- Search for a student by ID or name  
+- (Optional) Remove or update student details  
+
+### ▶️ Example Run
+Add Student
+
+View All Students
+
+Search Student
+
+Exit
+Enter your choice: 1
+Enter name: John
+Enter ID: 101
+Enter marks: 88
+Student added successfully!
+
+yaml
+Copy code
+
+---
+
+## 🛠️ How to Run
+
+### Prerequisites
+- Java JDK 17 or higher installed  
+- Any IDE (like IntelliJ IDEA, Eclipse, or VS Code) **or** use terminal commands
+
+### Using Command Line
+1. Compile:
+   ```bash
+   javac AverageCalculator.java
+   javac StudentList.java
+Run:
+
+bash
+Copy code
+java AverageCalculator
+java StudentList
+📂 Folder Structure
+Copy code
+.
+├── AverageCalculator.java
+├── StudentList.java
+└── README.md
+✨ Author
+Misal Saini
+📧 Feel free to reach out for suggestions or improvements!
+
+📜 License
+This project is open-source and free to use for learning and educational purposes.
+
+
+
+
+
+
+
+
+
+ChatGPT can make mist
